@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Me chamo Chrystian Abilio, Sou programador FullStack, estou estudando e fazendo projetos com
+Me chamo Chrystian Abilio, Sou programador FullStack, estou estudando e fazendo projetos com:
   - HTML
   - CSS
   - JavaScript
