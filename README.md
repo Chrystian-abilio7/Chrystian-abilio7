@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Me chamo Chrystian Abilio, Sou programador FullStack, estou estudando e fazendo projetos com
+  - HTML
+  - CSS
+  - JavaScript
+
+<a target="_blank" href="https://www.instagram.com/chrys2._/"> <img width="50px" height="50px" alt="image" src="https://github.com/user-attachments/assets/497fe7ab-d1c0-4185-9d42-8a4c3f2e2b18" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/chrystian-abilio-1689913a2/"><img width="50px" height="50px" alt="image" src="https://github.com/user-attachments/assets/b139f4a8-9e73-435d-9abf-037cc073bdba" /></a>
+
