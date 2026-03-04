@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 # 👋 Olá, eu sou o Chrystian Abilio
 
+🎯 Buscando oportunidade como Desenvolvedor Front-End Júnior
+
+---
+
 💻 Desenvolvedor Front-end em formação  
 📍 Espírito Santo - Brasil  
 🚀 Foco em HTML, CSS e JavaScript  
@@ -33,17 +37,15 @@ Tenho grande interesse em evoluir como desenvolvedor e contribuir com soluções
 
 ## 🛠️ Tecnologias que utilizo
 
-- HTML5
-- CSS3
-- JavaScript (Vanilla)
-- Git & GitHub
-
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 ---
 
 ## 📌 Projetos em destaque
 
 🔹 **Conversor de Moedas**  
-Aplicação web que realiza conversão dinâmica entre moedas utilizando JavaScript, manipulação de DOM e formatação monetária.
+Aplicação web desenvolvida com HTML, CSS e JavaScript puro, utilizando manipulação de DOM, formatação com Intl.NumberFormat e lógica de conversão entre moedas.
 
 ---
 
