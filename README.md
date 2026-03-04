@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # 👋 Olá, eu sou o Chrystian Abilio
 
-💻 Desenvolvedor FullStack em formação  
+💻 Desenvolvedor Front-end em formação  
 📍 Espírito Santo - Brasil  
 🚀 Foco em HTML, CSS e JavaScript  
 
